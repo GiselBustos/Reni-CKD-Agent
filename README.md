@@ -1,4 +1,6 @@
-# ⚠️ WORK IN PROGRESS ⚠️ This project is not finished, it is under development and contains errors. ⚠️
+> [!WARNING]
+> ⚠️ **WORK IN PROGRESS!** 
+>   This project is not finished, it is under development and contains errors. 
 
 # 🩺 Reni: Renal Health Assistant Agent
 
@@ -52,4 +54,5 @@ Reni analyzes **26 key clinical parameters**, including:
 * **Web Framework:** `Streamlit`.
 
 ---
-⚠️ ***IMPORTANT: Reni is an Educational and Support Tool. It is designed to assist clinicians, not to replace professional medical judgment, diagnosis, or treatment. All predictions must be verified with gold-standard laboratory tests and expert clinical observation.*** ⚠️ 
+> [!CAUTION]
+> Reni is an Educational and Support Tool. It is designed to assist clinicians, not to replace professional medical judgment, diagnosis, or treatment. All predictions must be verified with gold-standard laboratory tests and expert clinical observation.
